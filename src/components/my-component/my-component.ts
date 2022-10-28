@@ -1,4 +1,3 @@
-
 import { LitElement, css, html } from "lit";
 import { customElement, property } from "lit/decorators.js";
 
@@ -8,12 +7,10 @@ export class MyComponent extends LitElement {
   class = "primary";
 
   render() {
-    return html ``;
+    return html``;
   }
 
-  static styles = [
-    css ``
-  ];
+  static styles = [css``];
 }
 
 declare global {
@@ -21,4 +18,3 @@ declare global {
     "my-component": MyComponent;
   }
 }
-    
