@@ -2,6 +2,10 @@
 
 Cli to create lit element template component.
 
+## Usage
+
+This cli should be used in a lit-elements-project.
+
 ## Installing Lit Elements Cli
 
 ```
